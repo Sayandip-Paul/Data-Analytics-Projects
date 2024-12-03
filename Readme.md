@@ -1,0 +1,1 @@
+A collection of data analytics projects showcasing skills in data cleaning, analysis, and visualization. Includes real-world datasets and insights derived using tools like Python, SQL, Excel and Tableau.
